@@ -1,0 +1,1 @@
+require("C:/Users/admin/Desktop/Testlat/node_modules/nightwatch/bin/runner.js");
